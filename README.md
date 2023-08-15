@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+---
+- 🌱 I’m currently learning about Web Development and Mobile Development
+- 👯 I’m looking to collaborate on my learning path
 <!--
 **AlamRidhaa/AlamRidhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
